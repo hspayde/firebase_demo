@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "661653108174",
+    "project_id": "fir-flutter-codelab-35deb",
+    "storage_bucket": "fir-flutter-codelab-35deb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:661653108174:android:c743c8dd2d7ccc896d679f",
+        "android_client_info": {
+          "package_name": "com.example.flutter_appli"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBAqISvHywuxcYka4X4ljPeXe3dgDjUnnc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
