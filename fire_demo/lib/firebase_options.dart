@@ -53,10 +53,11 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyBAqISvHywuxcYka4X4ljPeXe3dgDjUnnc',
-    appId: '1:661653108174:android:88093d06c6e259756d679f',
-    messagingSenderId: '661653108174',
-    projectId: 'fir-flutter-codelab-35deb',
-    storageBucket: 'fir-flutter-codelab-35deb.appspot.com',
+    apiKey: 'AIzaSyAwoMoeom6_BTWs6mRsmmesQUxiNiOjr0g',
+    appId: '1:576040829053:android:c4be48954b2cc5b7057114',
+    messagingSenderId: '576040829053',
+    projectId: 'fir-flutter-codelab-32ac7',
+    storageBucket: 'fir-flutter-codelab-32ac7.firebasestorage.app',
   );
+
 }

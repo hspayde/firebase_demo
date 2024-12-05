@@ -1,13 +1,13 @@
 {
   "project_info": {
-    "project_number": "661653108174",
-    "project_id": "fir-flutter-codelab-35deb",
-    "storage_bucket": "fir-flutter-codelab-35deb.appspot.com"
+    "project_number": "576040829053",
+    "project_id": "fir-flutter-codelab-32ac7",
+    "storage_bucket": "fir-flutter-codelab-32ac7.firebasestorage.app"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:661653108174:android:88093d06c6e259756d679f",
+        "mobilesdk_app_id": "1:576040829053:android:c4be48954b2cc5b7057114",
         "android_client_info": {
           "package_name": "com.example.fire_demo"
         }
@@ -15,7 +15,7 @@
       "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyBAqISvHywuxcYka4X4ljPeXe3dgDjUnnc"
+          "current_key": "AIzaSyAwoMoeom6_BTWs6mRsmmesQUxiNiOjr0g"
         }
       ],
       "services": {
@@ -26,15 +26,15 @@
     },
     {
       "client_info": {
-        "mobilesdk_app_id": "1:661653108174:android:c743c8dd2d7ccc896d679f",
+        "mobilesdk_app_id": "1:576040829053:android:3fe04c8a1819e6a4057114",
         "android_client_info": {
-          "package_name": "com.example.flutter_appli"
+          "package_name": "com.fire_demo.app"
         }
       },
       "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyBAqISvHywuxcYka4X4ljPeXe3dgDjUnnc"
+          "current_key": "AIzaSyAwoMoeom6_BTWs6mRsmmesQUxiNiOjr0g"
         }
       ],
       "services": {
